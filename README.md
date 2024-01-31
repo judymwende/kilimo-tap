@@ -1,2 +1,6 @@
 # kilimo-tap
-A web based application designed to assist farmers in efficiently and seamlessly connecting with potential buyers and markets
+This is a web based application designed to assist farmers in efficiently and seamlessly connecting with potential buyers and markets. This is accomplished by minimizing intermediaries from the farmers' value chain and utilizing machine learning models to analyze current market trends. This enhances their profit margins, thus meeting SDG Goal 1. Moreover, post harvest crisis are curbed and thus reducing food wastage which is in tandem with SDG Goal 2 and SDG Goal 12.
+
+The analysis suggests optimal market partners based on the evolving dynamics of the economy, streamlining the agricultural marketing process. The application establishes a direct connection between farmers and potential buyers, enabling customers to engage in direct communication and negotiation with farmers. Customer requirements and preferences are subsequently communicated to farmers, ensuring the continuous improvement of the product or service for future transactions. This fosters innovation thus meeting SDG Goal 9.
+
+Employment opportunities are created for those in the transport and logistics sector as they are onboarded in the agricultural produce distribution chain. Farmers, buyers and transportation stakeholders can register for user accounts and interact with the web app features through a browser or USSD functionality. Even without a smartphone, everyone can still access the services which aligns with SDG Goal 10.
